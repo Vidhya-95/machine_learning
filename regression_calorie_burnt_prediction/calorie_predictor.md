@@ -18,7 +18,7 @@
 
 ---
 
-## 📖 Project Overview
+## Project Overview
 
 <!-- Provide a brief summary of the project. What are you predicting? What is the business or research motivation? -->
 
@@ -30,7 +30,7 @@
 
 ---
 
-## ❓ Problem Statement
+## Problem Statement
 
 <!-- Describe the problem clearly. What question are you trying to answer? -->
 
@@ -41,7 +41,7 @@
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 | Property         | Details                            |
 |------------------|------------------------------------|
@@ -59,7 +59,7 @@
 
 ---
 
-## 🔍 Exploratory Data Analysis
+## Exploratory Data Analysis
 
 <!-- Summarize your EDA findings. Add plots or links to notebooks. -->
 
@@ -76,7 +76,7 @@
 
 ---
 
-## ⚙️ Feature Engineering
+## Feature Engineering
 
 <!-- Describe any transformations, new features, or encodings applied. -->
 
@@ -91,7 +91,7 @@
 
 ---
 
-## 🤖 Modeling
+## Modeling
 
 ### Models Tried
 - Linear Regression,Ridge and Lasso
@@ -109,7 +109,7 @@ best_params = {
 
 ---
 
-## 📏 Evaluation Metrics
+## Evaluation Metrics
 
 | Metric | Description |
 |--------|-------------|
@@ -119,7 +119,7 @@ best_params = {
 
 ---
 
-## 📈 Results
+## Results
 
 ### Model Comparison
 | Model | Test RMSE |  Test R² |
@@ -145,7 +145,7 @@ best_params = {
 
 ---
 
-## 🚀 Future Work
+## Future Work
 
 - [ ] `Implement XGBoost`
 - [ ] `Determine which model works the best`
@@ -153,7 +153,7 @@ best_params = {
 
 ---
 
-## 👤 Author
+## Author
 
 **Vidhya Shinde**
 - GitHub: [@Vidhya-95](https://github.com/Vidhya-95)
